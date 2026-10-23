@@ -1,0 +1,7 @@
+# Never commit export data or generated transcripts
+*.zip
+*-000/
+transcripts/
+manifest.json
+conversations.json
+__pycache__/
