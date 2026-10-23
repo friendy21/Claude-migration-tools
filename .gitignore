@@ -5,3 +5,5 @@ transcripts/
 manifest.json
 conversations.json
 __pycache__/
+restore_kit/
+recovered_files/
